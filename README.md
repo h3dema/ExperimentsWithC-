@@ -1,2 +1,3 @@
-# ExperimentsWithC-
-Simple code with c++
+# Experiments with C++
+
+Simple code with c++ testing the very basic resources of the language.
