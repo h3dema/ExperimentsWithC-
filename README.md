@@ -10,6 +10,12 @@ Basically the code is in the .cpp and .h files inside the directories. However V
 > If your are using other platform, you will have some trouble to migrate the .cpp/.h file to the other platform's structure.
 
 
+## Recommended books
+
+* [The C++ Programming Language](https://www.stroustrup.com/4th.html). Look also at the [Stroustrup's site](https://www.stroustrup.com/C++.html).
+* C++ Primer
+* [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+
 ## Recommended videos
 
 If you want to learn C++ there are many good videos in YouTube.
